@@ -10,6 +10,8 @@ namespace MyFirstGitProject
     {
         static void Main(string[] args)
         {
+            // 
+            Console.Write("new");
         }
     }
 }
